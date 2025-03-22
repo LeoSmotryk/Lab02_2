@@ -27,6 +27,7 @@ ios/
 android/
 linux/
 macos/
+test/
 
 # Flutter/Dart/Pub related
 **/doc/api/
